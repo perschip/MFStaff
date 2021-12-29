@@ -1,0 +1,8 @@
+name: MF Staff
+version: '${project.version}'
+main: me.invertmc.mfstaff.Mfstaff
+api-version: 1.18
+prefix: MFStaff
+authors: [ InvertMC ]
+description: Staff Plugin for Minefaze Networks
+website: https://www.minefaze.net
